@@ -1,0 +1,2 @@
+/Users/ramyamorla/Downloads/MAD-main/activity14/android/app/.cxx/Debug/6k2x4v14/x86_64/CMakeFiles/edit_cache.dir
+/Users/ramyamorla/Downloads/MAD-main/activity14/android/app/.cxx/Debug/6k2x4v14/x86_64/CMakeFiles/rebuild_cache.dir

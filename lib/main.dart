@@ -13,7 +13,7 @@ void main() async {
     options: DefaultFirebaseOptions.currentPlatform,
   );
   FirebaseMessaging.onBackgroundMessage(_messageHandler);
-  runApp(MessagingTutorial());
+  runApp(MessagingTutorial());//
 }
 
 class MessagingTutorial extends StatelessWidget {
